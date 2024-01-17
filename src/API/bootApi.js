@@ -1,3 +1,3 @@
-const base_url="http://16.171.199.200:8080";
+const base_url="https://thesisguru.co.in";
 
 export default base_url;
