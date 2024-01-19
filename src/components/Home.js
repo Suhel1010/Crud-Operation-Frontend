@@ -3,10 +3,6 @@ import React from "react";
 import homee from '../images/homee.png'
 import Menuss from "./MenuHome";
 
-
-
-
-
 const Home = () => {
     useEffect(()=>{
         document.title="Home || Kumar Shanu";
@@ -21,7 +17,7 @@ const Home = () => {
           
           />
           
-      <h5 className="display3">This Application is developed using Spring Boot(BackEnd) and React JS(FrontEnd)</h5>
+      <p>This Application is developed using Spring Boot(BackEnd) and React JS(FrontEnd)</p>
          <Menuss/>
         </jumbotron>
        
