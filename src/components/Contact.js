@@ -19,7 +19,7 @@ const Contact = () => {
                 
                 <CardSubtitle tag={"h5"} >"I appreciate your kind visit" Thank you"..</CardSubtitle><></>
                 <CardSubtitle tag={"h3"} >Kumar Shanu</CardSubtitle>
-                <CardText>Contact:(+91) 9773-833-051</CardText>
+                <CardText>Email: kumarshanu@myyahoo.com </CardText>
                 
             </CardBody>
         </Card>     
